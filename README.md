@@ -256,8 +256,9 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**kunal885911**
-- GitHub: [@kunal885911](https://github.com/kunal885911)
+**kunal88591**
+
+- GitHub: [@kunal88591](https://github.com/kunal88591)
 
 ## 🙏 Acknowledgments
 
