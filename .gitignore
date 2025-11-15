@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+*.vcd
+*.vvp
+*.out
+
+# Simulation files
+*.log
+*.history
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# GTKWave
+*.gtkw~
+
+# Temporary files
+*.tmp
+*.bak

@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] 
+[dumpfile] "build/tb_vending_machine_mealy.vcd"
+[savefile] "scripts/mealy_wave.gtkw"
+[timestart] 0
+[size] 1800 1000
+[pos] -1 -1
+*-20.0 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_vending_machine_mealy.
+[treeopen] tb_vending_machine_mealy.uut.
+[sst_width] 250
+[signals_width] 250
+[sst_expanded] 1
+[sst_vpaned] 180
+@28
+tb_vending_machine_mealy.clk
+tb_vending_machine_mealy.reset
+@22
+tb_vending_machine_mealy.coin[2:0]
+@200
+-
+@22
+tb_vending_machine_mealy.total[3:0]
+@28
+tb_vending_machine_mealy.dispense
+@22
+tb_vending_machine_mealy.change[2:0]
+@200
+-
+@22
+tb_vending_machine_mealy.uut.current_state[3:0]
+tb_vending_machine_mealy.uut.next_state[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
